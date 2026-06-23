@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Hardware Experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Desktop building and support utilizing Windows, MacOS, and Linux systems.
 
 ## Software Experience
 
@@ -23,11 +23,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ### Certification & Compentencies
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+Comptia A+ certification <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e1e19dff-baef-48f2-ac79-75806402a9a7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ```
 
 ```ruby
