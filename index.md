@@ -15,8 +15,11 @@ Desktop building and support utilizing Windows, MacOS, and Linux systems.
 ## Software Experience
 
 > VMWare - 1 year
+> 
 > Microsoft Office - 10 years
+> 
 > VScode - 1 year
+> 
 > GitHub - 1 year
 > 
 > Learning isn't something you finish, it is something you do.
