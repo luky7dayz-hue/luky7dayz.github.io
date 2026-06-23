@@ -22,9 +22,9 @@ Desktop building and support utilizing Windows, MacOS, and Linux systems.
 
 ### Certification & Compentencies
 
-```js
-Comptia A+ certification <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e1e19dff-baef-48f2-ac79-75806402a9a7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-```
+Comptia A+ certification 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e1e19dff-baef-48f2-ac79-75806402a9a7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 ```ruby
 # Ruby code with syntax highlighting
