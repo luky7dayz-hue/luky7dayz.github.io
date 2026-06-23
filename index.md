@@ -52,7 +52,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![ME](https://github.com/luky7dayz-hue/luky7dayz.github.io/blob/main/Photo.jpg)
 
 ### Large image
 
