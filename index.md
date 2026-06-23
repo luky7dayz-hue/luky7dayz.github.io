@@ -53,7 +53,7 @@ The next step is always the most important.
 
 ### Small image
 
-![ME](https://github.com/luky7dayz-hue/luky7dayz.github.io/blob/main/Photo.jpg)
+![ME](Photo.jpg) 
 
 
 
