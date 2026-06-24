@@ -4,7 +4,7 @@ layout: default
 
 
 
-[Find my projects here](./another-page.html).
+[Find my projects here](./ProjectsPage.HTML).
 
 
 
