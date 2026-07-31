@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<p> <a href="./index.md">Main Page </a></p>
+<p> <a href="https://luky7dayz-hue.github.io/luky7dayz.github.io/">Main Page </a></p>
 
 <p>Introduction</p>
 
@@ -33,31 +33,35 @@ The DMARC failed, but the SPF passed. A very mixed bag email. <img src="pizza2.p
 Lots of transmission on this email. But everything was sent in one day, and very quickly.<img src="pizza3.png" alt="Company Logo" width="600" height="400">
 The HTML is also very clearn, using a style that looks very on brand for Pizza Hut. If I googled Pizza hut, I'm sure similar styling would show up.<img src="pizza4.png" alt="Company Logo" width="600" height="400">
 Look at those clean virustotal checks! Plus they have seperate URLs for everything, most common scams do not bother adding details. But some will, always double check! <img src="pizza5.png" alt="Company Logo" width="600" height="400">
-<p> LLM prompt injection </p>
 
-<p> GRC gap assesssment </p>
+<p> Email four: meridez25@kingsman-bd.com </p>
 
-<p> IR playbook tabletop </p>
+<p> This email is interesting as it passes many tests. The from line and display name are different. It also implies urgency and wants you to update your billing! The email also says do not reply, as the email is not monitored, but it does actually have a return path to act as recon, if you reply to this email but don't click I bet you will receive many more phishing emails since they know you are an active account.
+Now if we look at the DMARC and the SPF it actually passes both tests. The more interesting part is it passes the VirusTotal check (only on phishtool, if you click into virustotal it flags as suspicious under one security vendor).
+Now I could click into it, but VirusTotal notes that it has multiple redirects, and it is 503. thats strange as the email was only sent today, and if Disney was down I'm sure I could easily check through a site like downfor which checks if websites are up.
+But the easiest way to verify this is using MFA, like another email from when I signed up for Disney plus! a side by side of the from lines, return paths, and reply to lines are already different. but if you look at the header on the bottom you see Disney (and most emails, have a lot of techincal jargon on the bottom that most phishing emails don't bother adding.
+So why does it show clean on VirusTotal and Phishtool? I would assume the domain was taken down very quickly, as it is currently 503 status. But it shows you can not always trust tools</p>
 
-<p> disclosures </p>
-
-
-
-
-
-
-
-* * *
-
-
-### Small image
-
-![ME](Photo.jpg) 
+A very simple design for the header. It also says MyDisney as opposed to Disney+ <img src="disney1.png" alt="Company Logo" width="600" height="400">
+Yes the SPF passes, but why do you need a return path if this email is supposed to be unmonitored?<img src="disney2.png" alt="Company Logo" width="600" height="400">
+The URL is the biggest giveaway here, Disney websites don't redirect, and use .com or the country you are watching from. Virustotal saying it is clean does not guarantee it is clean.<img src="disney3.png" alt="Company Logo" width="600" height="400">
+A previous email I received from Disney, you can see the detail they use on the headers. Also if you have to choose what email to trust, I would trust the one with the domain name registered to the service you are using, not a random name email. <img src="disney4.png" alt="Company Logo" width="600" height="400">
 
 
 
+<p>* * *
 
-```
+
+Key Takeaways: 
+
+If you aren't positive, don't click.
+
+Verify in a way that does not use information from the email. Websites, phone numbers, offline.
+
+It only takes being tricked one time to lose sensitive information. Constant vigilance is required.
+
+</p>
+
 
 ```
 
