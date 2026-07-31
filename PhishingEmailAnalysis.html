@@ -3,28 +3,31 @@ layout: default
 ---
 
 
+<p> <a href="./index.md">Main Page </a></p>
 
-[Go Back](./ProjectsPage.HTML).
+<p>Introduction</p>
 
+<p>I used Phishtool to analyze emails, both recieved from my own private email and known bad actor emails</p>
 
+<p>Email one: sales@maxsgmail.top</p>
 
-# introduction
+<p> There are a couple things that instantly flag this as suspcious. To begin with, the fromline uses a .top domain. .top is typically for top 10 sites, or marketing campagins. <br>
+  However, due to their low costs it is quite often used for malicious phishing as well. Secondly, the display name is vastly different than the from line. Thirdly, the subject line implies urgency and asks us to click on a link given <br>
+  When you dive into the URL and scan it using VirusTotal, it flags on seven different security vendors for phishing or malicious. For these four reasons we will flag this as malicious. </p>
 
-for the project we used phishtool to analyze emails to verify which emails could be trusted, and which should be trashed. You can find Phishtool for your own use [here](https://app.phishtool.com/)
+<p>email two: no_reply562@verify.com</p>
+<p> Just like with the last email, this one has a from line and display name vastly different. this one uses a .com domain however. more trustworthy, but there are other things that discredit it. the DMARC test failed in Phishtool, which means the domain might not be trustworthy. <br>
+  The email also implies urgency, and it even gives two options to click! confirm or deny: but both link to the same URL, and the URL is flagged by a security vendor for phishing.  We will mark this as malicious as well. </p>
 
-## S
+<p>Phishing email analysis lab </p>
 
->
+<p> LLM prompt injection </p>
 
-### C
+<p> GRC gap assesssment </p>
 
+<p> IR playbook tabletop </p>
 
-```ruby
-The next step is always the most important.
-```
-
-#### Languages
-
+<p> disclosures </p>
 
 
 
