@@ -26,9 +26,8 @@ Desktop building and support utilizing Windows, MacOS, and Linux systems.
 
 ### Certification & Compentencies
 
-Comptia A+ certification 
+Comptia Certifications
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e1e19dff-baef-48f2-ac79-75806402a9a7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-Comptia Net+ certification
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4b016432-9771-4a29-b6be-957183f1db8a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 Cisco Competencies
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2743a529-4059-41ee-b994-41f22b85c424" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
